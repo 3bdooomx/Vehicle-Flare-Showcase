@@ -58,34 +58,4 @@ fare_flow/
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-Ensure you have installed:
-* [Flutter SDK](https://docs.flutter.dev/get-started/install) (v3.0.0 or higher)
-* Dart SDK
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/vehicle-fare.git
-   cd vehicle-fare
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the application:**
-   ```bash
-   flutter run
-   ```
-
----
-
-## 🛡️ License
-
-This repository is maintained for demonstration and portfolio showcase purposes.
